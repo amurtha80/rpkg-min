@@ -1,4 +1,4 @@
-# The Amazing rpkgMin
+# Andy's Amazing rpkgMin
 
 ---
 
