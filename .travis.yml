@@ -9,7 +9,7 @@ r:
 notifications:
   email:
     recipients:
-     - alerts+james.a.murtha@gmail.com
+     - james.a.murtha@gmail.com
      on_success: change
      on_failure: change
 
