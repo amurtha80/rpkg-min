@@ -12,3 +12,9 @@ notifications:
      - alerts+james.a.murtha@gmail.com
      on_success: change
      on_failure: change
+
+#safelist
+branches:
+  only:
+  - master
+  - stable
